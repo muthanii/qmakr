@@ -1,6 +1,0 @@
-setup.py
-qmakr.egg-info/PKG-INFO
-qmakr.egg-info/SOURCES.txt
-qmakr.egg-info/dependency_links.txt
-qmakr.egg-info/entry_points.txt
-qmakr.egg-info/top_level.txt
